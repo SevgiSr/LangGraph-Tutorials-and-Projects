@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# Python Virtual Environment - an absolute must to ignore
+venv/
+
+# Python cache files
+__pycache__/

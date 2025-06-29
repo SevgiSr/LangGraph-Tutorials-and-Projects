@@ -1,0 +1,18 @@
+2025-06-29 23:47:22,278 - INFO - Initializing Chatbot with model: gpt-4o
+2025-06-29 23:47:23,181 - INFO - Building the agent graph.
+2025-06-29 23:47:34,462 - INFO - Invoking LLM to get a response.
+2025-06-29 23:47:38,222 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 23:47:38,228 - INFO - LLM generated response successfully.
+2025-06-29 23:48:20,964 - INFO - Invoking LLM to get a response.
+2025-06-29 23:48:23,484 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 23:48:23,485 - INFO - LLM generated response successfully.
+2025-06-29 23:48:29,609 - INFO - Invoking LLM to get a response.
+2025-06-29 23:48:33,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 23:48:33,435 - INFO - LLM generated response successfully.
+2025-06-29 23:48:37,319 - INFO - Invoking LLM to get a response.
+2025-06-29 23:48:38,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 23:48:38,123 - INFO - LLM generated response successfully.
+2025-06-29 23:48:45,517 - INFO - Invoking LLM to get a response.
+2025-06-29 23:48:48,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 23:48:48,510 - INFO - LLM generated response successfully.
+2025-06-29 23:48:55,487 - INFO - Saving conversation to c:\Users\sevgi\langgraph-extended-tutorial\AI-agents\cli-agents\conversation_log.txt
