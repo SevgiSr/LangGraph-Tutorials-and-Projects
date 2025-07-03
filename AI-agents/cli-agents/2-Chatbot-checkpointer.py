@@ -6,8 +6,7 @@ from typing import List, Union, TypedDict
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from langchain_openai import ChatOpenAI
-# Use the pre-built MessagesState, which is the standard for this pattern
-from langgraph.graph import StateGraph, START, END, MessagesState
+from langgraph.graph import StateGraph, START, END
 from langgraph.checkpoint.memory import InMemorySaver
 from langchain_core.messages.utils import (
     trim_messages,
