@@ -16,3 +16,215 @@
 2025-06-29 23:48:48,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-06-29 23:48:48,510 - INFO - LLM generated response successfully.
 2025-06-29 23:48:55,487 - INFO - Saving conversation to c:\Users\sevgi\langgraph-extended-tutorial\AI-agents\cli-agents\conversation_log.txt
+2025-07-03 21:46:20,842 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 21:46:21,902 - INFO - Building the agent graph definition.
+2025-07-03 21:46:36,479 - INFO - Invoking LLM to get a response.
+2025-07-03 21:46:38,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:47:01,176 - INFO - Invoking LLM to get a response.
+2025-07-03 21:47:06,233 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:47:20,438 - INFO - Invoking LLM to get a response.
+2025-07-03 21:47:22,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:47:32,752 - INFO - Invoking LLM to get a response.
+2025-07-03 21:47:34,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:47:45,838 - INFO - Invoking LLM to get a response.
+2025-07-03 21:47:51,338 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:55:24,908 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 21:55:25,779 - INFO - Building the agent graph definition.
+2025-07-03 21:55:53,659 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 21:55:54,624 - INFO - Building the agent graph definition.
+2025-07-03 21:55:59,086 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:00,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:11,764 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:14,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:17,530 - INFO - Trimming messages from 5 to 4
+2025-07-03 21:56:17,533 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:19,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:23,556 - INFO - Trimming messages from 7 to 4
+2025-07-03 21:56:23,559 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:25,520 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:37,705 - INFO - Trimming messages from 9 to 4
+2025-07-03 21:56:37,708 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:42,278 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:52,003 - INFO - Trimming messages from 11 to 4
+2025-07-03 21:56:52,004 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:54,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:56:58,047 - INFO - Trimming messages from 13 to 4
+2025-07-03 21:56:58,050 - INFO - Invoking LLM to get a response.
+2025-07-03 21:56:58,717 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:03,730 - INFO - Trimming messages from 15 to 4
+2025-07-03 21:57:03,733 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:04,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:07,641 - INFO - Trimming messages from 17 to 4
+2025-07-03 21:57:07,642 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:08,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:15,457 - INFO - Trimming messages from 19 to 4
+2025-07-03 21:57:15,460 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:18,691 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:22,931 - INFO - Trimming messages from 21 to 4
+2025-07-03 21:57:22,933 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:23,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:27,025 - INFO - Trimming messages from 23 to 4
+2025-07-03 21:57:27,027 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:27,691 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:34,623 - INFO - Trimming messages from 25 to 4
+2025-07-03 21:57:34,625 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:37,085 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:45,011 - INFO - Trimming messages from 27 to 4
+2025-07-03 21:57:45,014 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:45,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:50,574 - INFO - Trimming messages from 29 to 4
+2025-07-03 21:57:50,576 - INFO - Invoking LLM to get a response.
+2025-07-03 21:57:51,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 21:57:59,782 - INFO - Trimming messages from 31 to 4
+2025-07-03 21:57:59,783 - INFO - Invoking LLM to get a response.
+2025-07-03 21:58:01,769 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:52:45,065 - INFO - Trimming messages from 33 to 4
+2025-07-03 22:52:45,067 - INFO - Invoking LLM to get a response.
+2025-07-03 22:53:07,905 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 22:53:09,613 - INFO - Building the agent graph definition.
+2025-07-03 22:53:45,621 - INFO - LLM node received 1 messages.
+2025-07-03 22:53:47,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:53:48,018 - INFO - LLM node received 1 messages.
+2025-07-03 22:53:49,000 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:57:42,396 - INFO - LLM node received 1 messages.
+2025-07-03 22:57:44,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:57:51,596 - INFO - LLM node received 1 messages.
+2025-07-03 22:57:53,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:57:57,986 - INFO - LLM node received 1 messages.
+2025-07-03 22:57:58,891 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:04,159 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:07,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:13,848 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:14,931 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:21,618 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:24,964 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:32,545 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:33,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:42,280 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:43,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:48,800 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:51,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 22:58:54,240 - INFO - LLM node received 1 messages.
+2025-07-03 22:58:55,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:05:55,849 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:05:57,571 - INFO - Building the agent graph definition.
+2025-07-03 23:06:02,011 - INFO - Invoking LLM to get a response.
+2025-07-03 23:06:04,944 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:06:18,348 - INFO - Invoking LLM to get a response.
+2025-07-03 23:06:23,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:07:44,091 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:07:45,556 - INFO - Building the agent graph definition.
+2025-07-03 23:08:55,880 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:08:57,633 - INFO - Building the agent graph definition.
+2025-07-03 23:09:00,771 - INFO - Invoking LLM to get a response.
+2025-07-03 23:09:03,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:09:12,382 - INFO - Invoking LLM to get a response.
+2025-07-03 23:09:14,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:09:25,906 - INFO - Invoking LLM to get a response.
+2025-07-03 23:09:28,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:09:37,804 - INFO - Invoking LLM to get a response.
+2025-07-03 23:09:39,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:10:21,664 - INFO - Invoking LLM to get a response.
+2025-07-03 23:10:24,017 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:10:58,617 - INFO - Invoking LLM to get a response.
+2025-07-03 23:11:03,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:13:38,183 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:13:39,963 - INFO - Building the agent graph definition.
+2025-07-03 23:13:46,179 - INFO - Invoking LLM to get a response.
+2025-07-03 23:13:48,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:13:53,883 - INFO - Invoking LLM to get a response.
+2025-07-03 23:13:56,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:14:02,097 - INFO - Invoking LLM to get a response.
+2025-07-03 23:14:02,911 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:14:29,978 - INFO - Invoking LLM to get a response.
+2025-07-03 23:14:33,154 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:15:01,375 - INFO - Invoking LLM to get a response.
+2025-07-03 23:15:04,189 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:17:50,546 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:17:52,387 - INFO - Building the agent graph definition.
+2025-07-03 23:18:00,816 - INFO - Invoking LLM to get a response.
+2025-07-03 23:18:02,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:18:08,468 - INFO - Invoking LLM to get a response.
+2025-07-03 23:18:13,311 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:18:38,735 - INFO - Invoking LLM to get a response.
+2025-07-03 23:18:44,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:18:52,357 - INFO - Invoking LLM to get a response.
+2025-07-03 23:18:55,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:19:08,482 - INFO - Invoking LLM to get a response.
+2025-07-03 23:19:11,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:19:11,698 - INFO - Invoking LLM to get a response.
+2025-07-03 23:19:13,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:19:31,377 - INFO - Invoking LLM to get a response.
+2025-07-03 23:19:35,843 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:19:45,944 - INFO - Invoking LLM to get a response.
+2025-07-03 23:19:49,464 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:22:26,620 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:22:28,681 - INFO - Building the agent graph definition.
+2025-07-03 23:22:32,632 - INFO - Invoking LLM to get a response.
+2025-07-03 23:22:36,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:22:48,670 - INFO - Invoking LLM to get a response.
+2025-07-03 23:22:51,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:24:19,492 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:24:21,099 - INFO - Building the agent graph definition.
+2025-07-03 23:24:29,344 - INFO - Invoking LLM to get a response.
+2025-07-03 23:24:31,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:24:40,336 - INFO - Invoking LLM to get a response.
+2025-07-03 23:24:44,477 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:24:50,132 - INFO - Invoking LLM to get a response.
+2025-07-03 23:24:51,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:25:08,368 - INFO - Invoking LLM to get a response.
+2025-07-03 23:25:11,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:25:38,805 - INFO - Invoking LLM to get a response.
+2025-07-03 23:25:41,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:25:52,027 - INFO - Invoking LLM to get a response.
+2025-07-03 23:25:54,723 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:26:15,170 - INFO - Invoking LLM to get a response.
+2025-07-03 23:26:20,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:26:31,495 - INFO - Invoking LLM to get a response.
+2025-07-03 23:26:35,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:29:12,169 - INFO - Invoking LLM to get a response.
+2025-07-03 23:29:14,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:29:19,279 - INFO - Invoking LLM to get a response.
+2025-07-03 23:29:20,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:29:24,739 - INFO - Invoking LLM to get a response.
+2025-07-03 23:29:25,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:33:30,560 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:33:32,831 - INFO - Building the agent graph definition.
+2025-07-03 23:33:35,842 - INFO - Invoking LLM to get a response.
+2025-07-03 23:33:38,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:33:42,634 - INFO - Invoking LLM to get a response.
+2025-07-03 23:33:44,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:35:29,081 - INFO - Invoking LLM to get a response.
+2025-07-03 23:35:31,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:39:19,181 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:39:20,935 - INFO - Building the agent graph definition.
+2025-07-03 23:39:23,555 - INFO - Invoking LLM to get a response.
+2025-07-03 23:39:25,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:39:27,830 - INFO - Invoking LLM to get a response.
+2025-07-03 23:39:29,322 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:42:29,878 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:42:31,578 - INFO - Building the agent graph definition.
+2025-07-03 23:42:32,707 - INFO - Invoking LLM to get a response.
+2025-07-03 23:42:35,394 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:42:36,892 - INFO - Invoking LLM to get a response.
+2025-07-03 23:42:39,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:47:16,038 - INFO - Initializing Chatbot with model: gpt-4o
+2025-07-03 23:47:17,858 - INFO - Building the agent graph definition.
+2025-07-03 23:47:20,992 - INFO - Invoking LLM to get a response.
+2025-07-03 23:47:24,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:47:26,058 - INFO - Invoking LLM to get a response.
+2025-07-03 23:47:27,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:47:31,821 - INFO - Invoking LLM to get a response.
+2025-07-03 23:47:33,251 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:47:36,186 - INFO - Invoking LLM to get a response.
+2025-07-03 23:47:38,269 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:47:49,023 - INFO - Invoking LLM to get a response.
+2025-07-03 23:47:51,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:48:05,152 - INFO - Invoking LLM to get a response.
+2025-07-03 23:48:09,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:48:18,676 - INFO - Invoking LLM to get a response.
+2025-07-03 23:48:20,787 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:48:39,285 - INFO - Invoking LLM to get a response.
+2025-07-03 23:48:42,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 23:49:05,246 - INFO - Invoking LLM to get a response.
+2025-07-03 23:49:08,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
